@@ -24,8 +24,6 @@
   **Unit test:** 모델 설계를 고려하며 코드를 작상한 가장 큰 이유는 Unit test를 진행함으로서 테스트의 중요서에 대해서 알아보기 위함이었습니다. Unit test에 대한 지식 부족 및 코드작성에 급박함에 있어서 테스트를 많이 해보지 못한 것이 아쉬웠습니다.
 
 ### Daily Scrum
-<details> <summary>1주차 Daily Scrum</summary>
-
 - [화요일](https://github.com/DonggeonOh/ios-juice-maker/wiki/데일리스크럼-1주차-화요일)
 
 - [수요일](https://github.com/DonggeonOh/ios-juice-maker/wiki/데일리스크럼-1주차-수요일)
@@ -36,11 +34,7 @@
 
 - [토요일](https://github.com/DonggeonOh/ios-juice-maker/wiki/데일리스크럼-1주차-토요일)
 
-</details>
-
 ### 작업 내역
-<details> <summary>1주차 작업 내역</summary>
-
  - [화요일](https://github.com/DonggeonOh/ios-juice-maker/wiki/작업내역-1주차-화요일)
 
  - [수요일](https://github.com/DonggeonOh/ios-juice-maker/wiki/작업내역-1주차-수요일)
@@ -50,8 +44,6 @@
  - [금요일](https://github.com/DonggeonOh/ios-juice-maker/wiki/작업내역-1주차-금요일)
  
  - [토요일](https://github.com/DonggeonOh/ios-juice-maker/wiki/작업내역-1주차-토요일)
-
-</details>
 
 ### 클래스 다이어그램
 <img src="https://user-images.githubusercontent.com/18098363/154088400-1a2aa047-2d3b-41bb-a28b-8fd6232a04de.jpg" />
